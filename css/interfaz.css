@@ -35,3 +35,22 @@ aside {
     margin-bottom: 2%;
     background-color: rgb(223, 223, 223);
 }
+
+
+/* CARDS CON IMÁGENES */
+.second-section {
+    display: flex;
+    flex-direction: row;
+    margin: auto 15%;
+    overflow: hidden;
+}
+
+.card {
+    margin-left: 2%;
+}
+
+.card-img-top {
+    width: auto;
+    height: 200px;
+    object-fit: cover;
+}
