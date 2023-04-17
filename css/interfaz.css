@@ -5,20 +5,6 @@ body {
     height: 1500px;
 }
 
-/* NAVBAR */
-.navbar-brand {
-    margin-left: 3%;
-}
-
-.d-flex { /* form*/
-    margin-right: 3%;
-} 
-
-/* ALERT */
-.alert {
-    margin: 2% 15% ; 
-}
-
 /* CARDS CON IMÁGENES */
 .second-section {
     display: flex;
@@ -55,10 +41,6 @@ aside .card {
 }
 
 /* TABLA */
-.fifth-section {
-    margin-top: 10%;
-}
-
 .fifth-section div {
     background-color: beige;
     margin: auto;
@@ -66,7 +48,6 @@ aside .card {
 
 /* FOOTER */
 footer {
-    margin-top: 5%;
     color: white;
     background-color: black;
     height: 50px;
