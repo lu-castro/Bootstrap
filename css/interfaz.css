@@ -5,20 +5,13 @@ body {
 }
 
 /* NAVBAR */
-nav {
-    background-color: rgb(41, 41, 41);
-    height: 10vh;
+.navbar-brand {
+    margin-left: 3%;
 }
 
-/* ÍTEMS DEL NAVBAR */
-.nav-link {
-    margin-top: 2vh;
-    color: white;
-}
-
-.nav-link:hover {
-    color: rgb(160, 160, 160);
-}
+.d-flex { /* form*/
+    margin-right: 3%;
+} 
 
 /* ALERT */
 .alert {
