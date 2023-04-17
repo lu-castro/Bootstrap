@@ -1,0 +1,14 @@
+nav {
+    background-color: rgb(59, 59, 59);
+    height: 10vh;
+}
+
+/* ÍTEMS DEL NAVBAR */
+.nav-link {
+    margin-top: 10px;
+    color: white;
+}
+
+.nav-link:hover {
+    color: rgb(160, 160, 160);
+}
