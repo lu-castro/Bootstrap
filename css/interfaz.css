@@ -53,3 +53,22 @@ aside .card {
     margin-bottom: 2%;
     background-color: rgb(223, 223, 223);
 }
+
+/* TABLA */
+.fifth-section {
+    margin-top: 10%;
+}
+
+.fifth-section div {
+    background-color: beige;
+    margin: auto;
+}
+
+/* FOOTER */
+footer {
+    margin-top: 5%;
+    color: white;
+    background-color: black;
+    height: 50px;
+    text-align: center;
+}
