@@ -2,6 +2,7 @@ body {
     background: #114357;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #F29492, #114357);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #F29492, #114357); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 1500px;
 }
 
 /* NAVBAR */
@@ -22,7 +23,7 @@ body {
 .second-section {
     display: flex;
     flex-direction: row;
-    margin: ;
+    margin: 15px;
     overflow: hidden;
 }
 
@@ -36,13 +37,19 @@ body {
     object-fit: cover;
 }
 
+/* CARD */
+.thrid-section .card {
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
 /* ASIDE */
 aside {
     float: right;
-    margin: 2% 15%;
+    margin: -42% 15%;
 }
 
-.card {
+aside .card {
     margin-bottom: 2%;
     background-color: rgb(223, 223, 223);
 }
