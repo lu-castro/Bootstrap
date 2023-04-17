@@ -12,10 +12,15 @@ nav {
 
 /* ÍTEMS DEL NAVBAR */
 .nav-link {
-    margin-top: 10px;
+    margin-top: 2vh;
     color: white;
 }
 
 .nav-link:hover {
     color: rgb(160, 160, 160);
+}
+
+/* ALERT */
+.alert {
+    margin: 2% 20% ; 
 }
