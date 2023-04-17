@@ -5,6 +5,7 @@ body {
     height: 1500px;
 }
 
+
 /* CARDS CON IMÁGENES */
 .second-section {
     display: flex;
@@ -36,7 +37,7 @@ aside {
 }
 
 aside .card {
-    margin-bottom: 2%;
+    margin-bottom: -7%;
     background-color: rgb(223, 223, 223);
 }
 
